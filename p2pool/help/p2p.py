@@ -33,7 +33,7 @@ class Protocol(p2protocol.Protocol):
                 port=self.transport.getHost().port,
             ),
             nonce=random.randrange(2**64),
-            sub_version_num='/Help Core:0.13.1/'',
+            sub_version_num='/Help Core:0.13.1/',
             start_height=0,
         )
 
