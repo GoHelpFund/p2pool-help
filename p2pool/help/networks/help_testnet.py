@@ -7,7 +7,7 @@ from .. import data, helper
 from p2pool.util import pack
 
 
-P2P_PREFIX = 'cee2caff'.decode('hex')
+P2P_PREFIX = 'cfe7c1f0'.decode('hex')
 P2P_PORT = 17777
 ADDRESS_VERSION = 140
 SCRIPT_ADDRESS_VERSION = 19
