@@ -47,9 +47,9 @@ https://en.bitcoin.it/wiki/P2Pool
 
 Alternate web front end :
 -------------------------
-* https://github.com/hardcpp/P2PoolExtendedFrontEnd
-* https://github.com/johndoe75/p2pool-node-status
-* https://github.com/justino/p2pool-ui-punchy
+* https://github.com/gohelpfund/P2PoolExtendedFrontEnd
+* https://github.com/gohelpfund/p2pool-node-status
+* https://github.com/gohelpfund/p2pool-ui-punchy
 
 Sponsors:
 -------------------------
